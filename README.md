@@ -10,7 +10,7 @@ To build the solver at the test do
 mkdir build && cd build
 cmake ..
 make
-``
+```
 This builds three targets `sudoku`, `testset`, and `testsudoku`.
 
 Enjoy!
